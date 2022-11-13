@@ -4,7 +4,7 @@ project(TorchJack)
 set(CMAKE_PREFIX_PATH /home/felix/Downloads/libtorch)
 
 
-find_package(Torch REQUIRED COMPONETS
+find_package(Torch REQUIRED COMPONENTS
 jack_msgs
 )
 

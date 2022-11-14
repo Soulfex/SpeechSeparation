@@ -1,4 +1,3 @@
 # SpeechSeparation
 
-This repository
-...
+Online voice separation project
